@@ -29,12 +29,3 @@ In distributed systems, abstractions simplify engineers' tasks by hiding the und
 Modern applications must scale to handle growing user bases. Abstractions in distributed systems enable quick shifts to distributed architectures, ensuring responsiveness and functionality.
 
 **Note:** This chapter will explore abstractions in communications, data consistency, and failure handling. The aim is to convey core ideas while simplifying complex concepts.
-
----
-
-## Additional Topics
-- Communications in distributed systems
-- Ensuring data consistency
-- Handling failures
-
-Understanding and leveraging abstractions are crucial for efficient system design and development.
